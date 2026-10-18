@@ -6,7 +6,9 @@
   "language": "en",
   "affiliate_links": {
     "AFF_JOBBER": "https://www.getjobber.com/",
-    "AFF_HOUSECALLPRO": "https://www.housecallpro.com/"
+    "AFF_HOUSECALLPRO": "https://www.housecallpro.com/",
+    "AFF_SERVICEM8": "https://www.servicem8.com/",
+    "AFF_JOBHOLLER": "https://getjobholler.com/"
   },
   "ads": {
     "enabled": false,

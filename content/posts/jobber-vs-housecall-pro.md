@@ -83,8 +83,6 @@ If you want to see where your guys are and get photos from every job, Housecall 
 
 Jobber jumps from 5 users straight to 10, so an 8-person team pays for two empty seats. It's still cheaper: Connect at $229 a month beats Housecall Pro Max at $299. Jobber Grow and Housecall Pro Max cost the same, and at that point you're choosing on features, not price.
 
-We break down every plan in our guides to [Jobber pricing](/jobber-pricing/) and [Housecall Pro pricing](/housecall-pro-pricing/).
-
 The quickest way to settle it is with your own jobs. Both trials are free for 14 days, no card. [Start a Jobber trial →]({{AFF_JOBBER}}) [Try Housecall Pro free →]({{AFF_HOUSECALLPRO}})
 
 ### Card fees can cost more than the software
@@ -154,7 +152,7 @@ Housecall Pro earns its price in a bigger shop. Take an HVAC shop with six techs
 | Electrical | **Housecall Pro** | Multi-tech dispatch, proposals |
 | Pool service | **Either** | Both do routes; compare on route needs |
 
-Running a cleaning business? We compare more options in our guide to the [best cleaning business software](/best-cleaning-business-software/).
+Just getting a cleaning business off the ground? Start with our guide on [how to start a cleaning business](/how-to-start-a-cleaning-business/).
 
 ## Who Should Choose Jobber vs Housecall Pro
 
@@ -176,7 +174,7 @@ Running a cleaning business? We compare more options in our guide to the [best c
 
 [Try Housecall Pro free for 14 days →]({{AFF_HOUSECALLPRO}})
 
-Not sold on either? We cover more options in our guide to the [best field service software for small business](/best-field-service-software-small-business/), and there's a list of [Jobber alternatives](/jobber-alternatives/) too.
+Not sold on either? We cover more options in our guide to the [best field service software for small business](/best-field-service-software-small-business/).
 
 ## How We Compared Jobber and Housecall Pro
 

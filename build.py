@@ -39,6 +39,7 @@ def parse_post(path):
         "h1": h1.group(1) if h1 else slug,
         "description": meta.get("Meta Description", ""),
         "updated": meta.get("Last Updated", date.today().isoformat()),
+        "featured": meta.get("Featured", "").lower() in ("yes", "true"),
         "author": meta.get("Author", "") if "[" not in meta.get("Author", "[") else CONFIG["author"],
         "body": body,
     }
@@ -172,7 +173,7 @@ def main():
         shutil.rmtree(OUT)
     shutil.copytree(ROOT / "static", OUT)
     posts = sorted((parse_post(p) for p in (ROOT / "content" / "posts").glob("*.md")),
-                   key=lambda p: p["updated"], reverse=True)
+                   key=lambda p: (p["featured"], p["updated"]), reverse=True)
     slugs = {p["slug"] for p in posts}
 
     for post in posts:
