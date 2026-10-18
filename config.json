@@ -7,5 +7,10 @@
   "affiliate_links": {
     "AFF_JOBBER": "https://www.getjobber.com/",
     "AFF_HOUSECALLPRO": "https://www.housecallpro.com/"
+  },
+  "ads": {
+    "enabled": false,
+    "adsense_client": "",
+    "slot": ""
   }
 }

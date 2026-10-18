@@ -77,7 +77,53 @@ def render_body(post, published_slugs):
         rel = "sponsored nofollow noopener" if host in affiliate_hosts else "noopener"
         return f'<a href="{href}" rel="{rel}" target="_blank">'
 
-    return re.sub(r'<a href="(https?://[^"]+)">', mark_external, out)
+    out = re.sub(r'<a href="(https?://[^"]+)">', mark_external, out)
+    return enhance(out)
+
+
+def ad_slot():
+    ads = CONFIG.get("ads", {})
+    if not ads.get("enabled") or not ads.get("adsense_client"):
+        return ""
+    return (f'<div class="ad-slot"><ins class="adsbygoogle" style="display:block" '
+            f'data-ad-client="{ads["adsense_client"]}" data-ad-slot="{ads.get("slot", "")}" '
+            f'data-ad-format="auto" data-full-width-responsive="true"></ins>'
+            f'<script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script></div>')
+
+
+def ads_head():
+    ads = CONFIG.get("ads", {})
+    if not ads.get("enabled") or not ads.get("adsense_client"):
+        return ""
+    return (f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
+            f'?client={ads["adsense_client"]}" crossorigin="anonymous"></script>')
+
+
+def enhance(out):
+    """Reading aids: styled disclosure, scrollable tables, CTA buttons, table of contents, ad slots."""
+    out = re.sub(r"<blockquote>\n<p><strong>Disclosure:", '<blockquote class="disclosure">\n<p><strong>Disclosure:', out, count=1)
+    out = out.replace("<table>", '<div class="table-wrap"><table>').replace("</table>", "</table></div>")
+    # Links whose text ends with an arrow are calls to action.
+    out = re.sub(r'<a ([^>]*)>([^<]*→)</a>', r'<a class="btn" \1>\2</a>', out)
+
+    headings = re.findall(r'<h2 id="([^"]+)">(.+?)</h2>', out)
+    if len(headings) >= 3:
+        items = "".join(f'<li><a href="#{hid}">{re.sub("<[^>]+>", "", text)}</a></li>' for hid, text in headings)
+        toc = f'<details class="toc" open><summary>In this guide</summary><ol>{items}</ol></details>'
+        takeaways = re.search(r"<blockquote>\n<p><strong>Key Takeaways</strong>.*?</blockquote>", out, re.S)
+        if takeaways:
+            out = out[:takeaways.end()] + toc + out[takeaways.end():]
+        else:
+            out = out.replace(f'<h2 id="{headings[0][0]}">', toc + f'<h2 id="{headings[0][0]}">', 1)
+
+    ad = ad_slot()
+    if ad:
+        if len(headings) >= 3:
+            out = out.replace(f'<h2 id="{headings[2][0]}">', ad + f'<h2 id="{headings[2][0]}">', 1)
+        if any(hid == "faq" for hid, _ in headings):
+            out = out.replace('<h2 id="faq">', ad + '<h2 id="faq">', 1)
+        out += ad
+    return out
 
 
 def faq_schema(post):
@@ -106,6 +152,7 @@ def page(title, description, canonical, content, schema=None):
             .replace("{{description}}", html.escape(description))
             .replace("{{canonical}}", canonical)
             .replace("{{schema}}", schema_tags)
+            .replace("{{ads_head}}", ads_head())
             .replace("{{site_name}}", html.escape(CONFIG["site_name"]))
             .replace("{{tagline}}", html.escape(CONFIG["tagline"]))
             .replace("{{lang}}", CONFIG["language"])
@@ -138,7 +185,8 @@ def main():
             "mainEntityOfPage": canonical,
         }
         content = (f'<article><h1>{html.escape(post["h1"])}</h1>'
-                   f'<p class="meta">By {html.escape(post["author"])} · Updated {post["updated"]}</p>'
+                   f'<p class="meta"><span>By {html.escape(post["author"])}</span><span>Updated {post["updated"]}</span>'
+                   f'<span>{max(1, round(len(post["body"].split()) / 230))} min read</span></p>'
                    f'{render_body(post, slugs)}</article>')
         write(post["slug"], page(post["title"], post["description"], canonical, content,
                                  [article, faq_schema(post)]))
@@ -163,6 +211,11 @@ def main():
     (OUT / "sitemap.xml").write_text(
         f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sitemap}</urlset>')
     (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")
+    ads = CONFIG.get("ads", {})
+    if ads.get("enabled") and ads.get("adsense_client"):
+        # AdSense only reads ads.txt at the domain root, so this needs a custom domain.
+        pub = ads["adsense_client"].replace("ca-", "")
+        (OUT / "ads.txt").write_text(f"google.com, {pub}, DIRECT, f08c47fec0942fa0\n")
     print(f"Built {len(posts)} post(s) into {OUT}")
 
 

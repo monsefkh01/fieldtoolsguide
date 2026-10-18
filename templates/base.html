@@ -11,21 +11,41 @@
 <meta property="og:url" content="{{canonical}}">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="{{site_name}}">
+<meta name="theme-color" content="#0a7a55">
 <link rel="stylesheet" href="{{base}}/style.css">
 {{schema}}
+{{ads_head}}
 </head>
 <body>
+<div class="progress" aria-hidden="true"></div>
 <header class="site-header">
-  <a class="brand" href="{{base}}/">{{site_name}}</a>
-  <nav><a href="{{base}}/">Guides</a><a href="{{base}}/about/">About</a></nav>
+  <div class="inner">
+    <a class="brand" href="{{base}}/">{{site_name}}<span>.</span></a>
+    <nav><a href="{{base}}/">Guides</a><a href="{{base}}/about/">About</a></nav>
+  </div>
 </header>
 <main>
 {{content}}
 </main>
 <footer class="site-footer">
-  <p>{{site_name}}: {{tagline}}</p>
-  <p><a href="{{base}}/affiliate-disclosure/">Affiliate disclosure</a> · <a href="{{base}}/privacy/">Privacy</a> · <a href="{{base}}/about/">About</a></p>
-  <p>© {{year}} {{site_name}}</p>
+  <div class="inner">
+    <p>{{site_name}}: {{tagline}}</p>
+    <p><a href="{{base}}/affiliate-disclosure/">Affiliate disclosure</a> · <a href="{{base}}/privacy/">Privacy</a> · <a href="{{base}}/about/">About</a></p>
+    <p>© {{year}} {{site_name}}</p>
+  </div>
 </footer>
+<script>
+(function () {
+  var bar = document.querySelector('.progress');
+  if (!bar || !document.querySelector('article')) return;
+  function update() {
+    var h = document.documentElement;
+    var max = h.scrollHeight - h.clientHeight;
+    bar.style.width = (max > 0 ? (h.scrollTop / max) * 100 : 0) + '%';
+  }
+  document.addEventListener('scroll', update, { passive: true });
+  update();
+})();
+</script>
 </body>
 </html>

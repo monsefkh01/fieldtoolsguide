@@ -18,6 +18,13 @@ Static affiliate blog for the "software for home-service pros" niche. Posts are 
 
 Internal links to posts that aren't published yet are rendered as plain text, and they become real links automatically once the target post exists.
 
+## Ads (Google AdSense)
+Ads are off by default. Once AdSense approves the site, set in `config.json`:
+```json
+"ads": { "enabled": true, "adsense_client": "ca-pub-XXXXXXXXXXXXXXXX", "slot": "1234567890" }
+```
+The build then adds the AdSense script, three ad slots per article (after the 2nd section, before the FAQ, at the end) and `ads.txt`. AdSense reads `ads.txt` only at the domain root, so ads need a custom domain, not `username.github.io/repo`.
+
 ## Local preview
 ```bash
 SITE_BASE_URL=http://localhost:8765 ../seomachine/.venv/bin/python build.py && ../seomachine/.venv/bin/python -m http.server 8765 --directory _site
