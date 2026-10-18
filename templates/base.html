@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="{{lang}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+<link rel="canonical" href="{{canonical}}">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{description}}">
+<meta property="og:url" content="{{canonical}}">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="{{site_name}}">
+<link rel="stylesheet" href="{{base}}/style.css">
+{{schema}}
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="{{base}}/">{{site_name}}</a>
+  <nav><a href="{{base}}/">Guides</a><a href="{{base}}/about/">About</a></nav>
+</header>
+<main>
+{{content}}
+</main>
+<footer class="site-footer">
+  <p>{{site_name}}: {{tagline}}</p>
+  <p><a href="{{base}}/affiliate-disclosure/">Affiliate disclosure</a> · <a href="{{base}}/privacy/">Privacy</a> · <a href="{{base}}/about/">About</a></p>
+  <p>© {{year}} {{site_name}}</p>
+</footer>
+</body>
+</html>

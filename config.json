@@ -1,0 +1,11 @@
+{
+  "site_name": "Field Tools Guide",
+  "tagline": "Honest software guides for small home-service businesses",
+  "base_url": "https://USERNAME.github.io/REPO",
+  "author": "Field Tools Guide Editorial Team",
+  "language": "en",
+  "affiliate_links": {
+    "AFF_JOBBER": "https://www.getjobber.com/",
+    "AFF_HOUSECALLPRO": "https://www.housecallpro.com/"
+  }
+}
