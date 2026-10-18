@@ -15,18 +15,18 @@ Word Count: ~2,500
 
 > **Disclosure:** This article contains affiliate links. If you sign up for Jobber or Housecall Pro through our links, we may earn a commission at no extra cost to you. It doesn't change how we rank the tools. Prices were checked on each company's official pricing page on October 18, 2026.
 
-**Jobber is the better pick for most solo operators and small crews, because it starts at $29/month and has the cleaner QuickBooks sync. Housecall Pro is the better pick for HVAC, plumbing, and other residential shops that sell maintenance plans and want built-in marketing.** Both offer a 14-day free trial with no credit card, so you can test either one with real jobs.
+**Short answer on Jobber vs Housecall Pro: if you work alone or run a small crew doing recurring jobs, get Jobber. It starts at $29 a month and its QuickBooks sync is cleaner. If you run an HVAC, plumbing or electrical shop with several techs and you sell maintenance plans, get Housecall Pro.** Both have a free 14-day trial and neither asks for a card.
 
-Here's the catch most comparison pages skip: the plan you see first is rarely the plan you'll end up paying for. Neither entry plan syncs with QuickBooks Online. Once you add the features a growing business actually needs, the price gap changes a lot.
+That's most of the decision. The rest of this page is about the part the pricing pages don't make obvious.
 
-You already know you need to stop running your business from a notebook and a text thread. This guide shows you what each tool costs at 1, 5, and 8 users, where each one is stronger, and which one fits your trade. You'll also get a simple "pick this if" checklist at the end.
+Neither company's cheapest plan syncs with QuickBooks Online. Most owners find that out a week into the trial, when their bookkeeper asks for it. So we priced out the plan you'd actually end up on at 1, 5 and 8 users, and the gap looks different once you do.
 
 > **Key Takeaways**
-> - **Solo, basic needs:** Jobber Core is $29/mo (annual) vs Housecall Pro Basic at $59/mo. Jobber is half the price.
-> - **Solo with QuickBooks sync:** Jobber Connect is $99/mo vs Housecall Pro Essentials at $149/mo.
-> - **5-person crew:** both land at $149/mo on annual billing (Jobber Connect vs Housecall Pro Essentials).
-> - **Housecall Pro wins** on recurring service plans, consumer marketing, and cheaper card rates (from 2.59% vs Jobber's 2.9% + 30¢).
-> - **Jobber wins** on entry price, flexible user tiers, and accounting sync.
+> - **Working solo:** Jobber Core is $29/mo on annual billing. Housecall Pro Basic is $59/mo. Same job, half the price.
+> - **Solo and you need QuickBooks:** Jobber Connect at $99/mo vs Housecall Pro Essentials at $149/mo.
+> - **Five-person crew:** dead even at $149/mo (Jobber Connect vs Housecall Pro Essentials).
+> - **Housecall Pro does better** on maintenance plans, residential marketing and card fees (from 2.59% vs 2.9% + 30¢).
+> - **Jobber does better** on starting price, user tiers and accounting sync.
 
 ## Jobber vs Housecall Pro at a Glance
 
@@ -43,23 +43,23 @@ You already know you need to stop running your business from a notebook and a te
 | Free trial | 14 days, no card | 14 days, no card |
 | Best for | Solo operators, cleaning, lawn care, handyman | HVAC, plumbing, electrical, service plans |
 
-Sources: [Jobber pricing](https://www.getjobber.com/pricing/) and [Housecall Pro pricing](https://www.housecallpro.com/pricing/), checked October 2026.
+Prices from the [Jobber pricing page](https://www.getjobber.com/pricing/) and the [Housecall Pro pricing page](https://www.housecallpro.com/pricing/), October 2026.
 
-## Jobber vs Housecall Pro Pricing: What You Actually Pay
+## Jobber vs Housecall Pro Pricing: What You'll Actually Pay
 
-List prices are only half the story. What matters is the price of the plan that has the features you need. Here's the real comparison at three team sizes, using annual billing.
+The sticker price is the plan nobody stays on. What matters is the price of the plan with the features you'll want by month three. All numbers below are annual billing.
 
-### Solo operator (1 user)
+### Working alone (1 user)
 
 | What you need | Jobber | Housecall Pro |
 |---|---|---|
 | Quotes, scheduling, invoices, online payments | Core: **$29/mo** | Basic: **$59/mo** |
-| + QuickBooks Online sync | Connect: **$99/mo** | Essentials: **$149/mo** (includes 5 users) |
-| + Two-way texting and automations | Grow: **$149/mo** | Essentials covers most automations |
+| Add QuickBooks Online sync | Connect: **$99/mo** | Essentials: **$149/mo** (5 users included) |
+| Add two-way texting and automations | Grow: **$149/mo** | Essentials covers most of this |
 
-For a one-person business, Jobber is cheaper at every step. The gap is $30/month at entry level and $50/month once you need QuickBooks.
+Jobber wins every row for a one-person business. $30 a month cheaper to start, $50 cheaper once QuickBooks is in the picture.
 
-Picture Dana, who runs a one-woman house cleaning business with 25 recurring clients. She doesn't need GPS tracking or dispatch. She needs clean quotes, reminders, and invoices that get paid. Jobber Core covers that for $29/month, which is $360 a year less than Housecall Pro Basic. When she hires her first helper and her accountant asks for QuickBooks sync, she moves to Connect. (This is an example scenario, not a customer story.)
+Say you clean houses on your own and have 25 regular clients. You don't need GPS tracking or a dispatch board. You need quotes that look professional, reminders that go out without you thinking about it, and invoices people pay on time. Jobber Core does that for $29 a month, which is $360 a year less than Housecall Pro Basic. When you hire your first helper and your accountant wants QuickBooks sync, you move up to Connect.
 
 ### Small crew (5 users)
 
@@ -69,7 +69,9 @@ Picture Dana, who runs a one-woman house cleaning business with 25 recurring cli
 | Jobber Grow, 5 users | $229/mo |
 | Housecall Pro Essentials, 5 users | $149/mo |
 
-At five users, the price is identical. Housecall Pro Essentials includes routes, GPS tracking, photo reports, and commissions. Jobber Connect gives you reminders, auto payments, and QuickBooks sync, but texting and job costing need Grow. For a 5-person crew that wants GPS and photo reports, **Housecall Pro is the better value at this size.**
+At five people it's a tie on price, so look at what you get. Housecall Pro Essentials throws in routes, GPS tracking for your crew, photo reports and commission tracking. Jobber Connect gives you reminders, automatic payments and QuickBooks sync, but two-way texting and job costing sit one tier up on Grow.
+
+If you want to see where your guys are and get photos from every job, Housecall Pro is the better deal at this size.
 
 ### Growing team (8 users)
 
@@ -79,165 +81,151 @@ At five users, the price is identical. Housecall Pro Essentials includes routes,
 | Jobber Grow, 10-user tier | $299/mo |
 | Housecall Pro Max, 8 users | $299/mo |
 
-Jobber's next tier after 5 users is 10, so an 8-person team pays for 10 seats. Even so, Jobber Connect at $229/mo is cheaper than Housecall Pro Max. Jobber Grow and Housecall Pro Max are the same price, and the choice comes down to features.
+Jobber jumps from 5 users straight to 10, so an 8-person team pays for two empty seats. It's still cheaper: Connect at $229 a month beats Housecall Pro Max at $299. Jobber Grow and Housecall Pro Max cost the same, and at that point you're choosing on features, not price.
 
-Want the full plan-by-plan breakdown? See our guides to [Jobber pricing](/jobber-pricing/) and [Housecall Pro pricing](/housecall-pro-pricing/).
+We break down every plan in our guides to [Jobber pricing](/jobber-pricing/) and [Housecall Pro pricing](/housecall-pro-pricing/).
 
-**Ready to compare them with your own jobs?** Both trials are free for 14 days with no card. [Start a Jobber trial →]({{AFF_JOBBER}}) or [try Housecall Pro free →]({{AFF_HOUSECALLPRO}})
+The quickest way to settle it is with your own jobs. Both trials are free for 14 days, no card. [Start a Jobber trial →]({{AFF_JOBBER}}) [Try Housecall Pro free →]({{AFF_HOUSECALLPRO}})
 
-### Don't forget payment processing fees
+### Card fees can cost more than the software
 
-Payment fees can cost more than the subscription. Jobber charges 2.9% + 30¢ per card payment. Housecall Pro advertises card rates "as low as 2.59%." Both charge 1% for bank payments.
+People skip this part. Jobber charges 2.9% + 30¢ per card payment. Housecall Pro says its card rates start "as low as 2.59%." Bank payments are 1% on both.
 
-On $10,000 a month in card payments across 40 invoices, Jobber's fees come to about $302. At Housecall Pro's lowest advertised rate, the percentage part is about $259. Your actual rate may differ, so check it with each company before you switch. If most of your clients pay by bank transfer, the gap mostly disappears.
+Run $10,000 a month through cards over 40 invoices and Jobber's fees come to about $302. At Housecall Pro's lowest advertised rate, the percentage part alone is about $259. Your real rate may not be the lowest one, so ask both companies before you switch. And if most of your customers pay by bank transfer, this difference mostly goes away.
 
 ## Features Compared: Jobber vs Housecall Pro
 
-Both tools cover the core job loop: request, quote, schedule, do the job, invoice, get paid. The differences are in what comes after the basics.
+Both cover the basic loop: a customer books, you quote, you schedule, you do the job, you invoice, you get paid. Where they split is what happens around that loop.
 
-### Quoting and estimates
+### Quotes
 
-Jobber's quotes are clean and simple on Core. On Grow, you can add photos, reviews, and optional line items, so clients can pick "good, better, best" options and you can upsell without a sales call.
+Jobber's quotes are clean on every plan. On Grow you can add photos, reviews and optional line items, so a customer can pick a basic clean or the deep clean with windows without you making a second call. That upsell pays for the plan on its own if you use it.
 
-Housecall Pro includes estimates and a price book on every plan. Its Max plan adds a sales proposal tool, which is useful for higher-ticket jobs like HVAC replacements.
-
-**Edge:** Jobber for simple service quotes. Housecall Pro for big-ticket proposals.
+Housecall Pro has estimates and a price book on every plan. Max adds a sales proposal tool, which matters more for a $9,000 furnace replacement than for a $150 lawn cut.
 
 ### Scheduling and dispatch
 
-Both have drag-and-drop scheduling and online booking. Housecall Pro includes dispatch on Basic, and adds routes and employee GPS on Essentials. Route optimization is on Max.
+Drag-and-drop scheduling and online booking come with both. Housecall Pro puts dispatch on its Basic plan and adds routes and employee GPS on Essentials. Route optimization comes with Max.
 
-Jobber has crew scheduling on Plus and handles a single operator's calendar very well on every plan.
+Jobber handles one person's calendar very well and saves crew scheduling for Plus. If you have one truck, you won't miss it. If you have six techs and a dispatcher, Housecall Pro is built for your day.
 
-**Edge:** Housecall Pro for dispatching several techs.
+### Invoices and getting paid
 
-### Invoicing and payments
+Both send invoices with a pay-online link. Jobber Connect adds automatic follow-ups on unpaid invoices, and if you've ever spent a Sunday texting customers about money, you know what that's worth. Housecall Pro has the lower advertised card rate and free check deposits from the mobile app.
 
-Both send invoices with online payment links. Jobber Connect adds automatic payment collection and invoice follow-ups, which are a big deal if you chase late payers. Housecall Pro has lower advertised card rates and free mobile check deposits.
+### QuickBooks
 
-**Edge:** Tie. Jobber for automated follow-ups, Housecall Pro for lower fees.
+This is where a lot of owners make the call. Neither entry plan syncs with QuickBooks Online. Jobber includes it from Connect ($99/mo for one user). Housecall Pro includes it from Essentials ($149/mo).
 
-### QuickBooks and accounting
+User threads in 2026 keep describing Jobber's sync as the cleaner one. The most common Housecall Pro complaint we saw was duplicate entries when the sync isn't set up carefully. Worth testing with real invoices during the trial, not sample data.
 
-This is where many small businesses decide. Neither entry plan syncs with QuickBooks Online. Jobber includes it from Connect ($99/mo for 1 user). Housecall Pro includes it from Essentials ($149/mo).
+### Maintenance plans and memberships
 
-Several user discussions in 2026 describe Jobber's QuickBooks sync as the cleaner of the two, while some Housecall Pro users report duplicate entries when the sync isn't set up carefully.
-
-**Edge:** Jobber.
-
-### Recurring service plans and memberships
-
-If you sell maintenance agreements, such as twice-yearly HVAC tune-ups or monthly pool service, Housecall Pro's recurring service plans on Max are a real advantage. They help turn one-off customers into steady monthly revenue.
-
-**Edge:** Housecall Pro.
+If you sell tune-up agreements, twice-a-year HVAC checks or monthly pool service, Housecall Pro's recurring service plans on Max are a real reason to choose it. Those agreements are what get a shop through the slow months.
 
 ### Marketing and reviews
 
-Housecall Pro includes review management on Basic and sells Campaigns (email and postcards) as an add-on. Jobber's Marketing Suite is $99/month or included on Plus.
-
-**Edge:** Housecall Pro for residential marketing.
+Housecall Pro includes review management on Basic and sells Campaigns (email and postcards) as an add-on. Jobber's Marketing Suite costs $99 a month on its own or comes with Plus. For residential shops that live on Google reviews, Housecall Pro gets you there cheaper.
 
 ### AI receptionist
 
-Both companies now sell an AI phone assistant. Jobber's AI Receptionist is a $29/month add-on (included on Plus). Housecall Pro sells CSR AI as an add-on; check the current price during your trial. If missed calls are your main problem, also look at standalone tools in our guide to the [best AI receptionist for contractors](/best-ai-receptionist-for-contractors/).
+Both sell an AI phone assistant now. Jobber's AI Receptionist is a $29/month add-on, included on Plus. Housecall Pro sells CSR AI as an add-on but doesn't list the price publicly, so ask during the trial. If missed calls are your biggest leak, also look at the standalone tools in our guide to the [best AI receptionist for contractors](/best-ai-receptionist-for-contractors/).
 
 ## Ease of Use and Support
 
-Jobber is usually described as the simpler of the two. One small-business owner on Reddit said the Housecall Pro trial felt confusing because of how many features it has, and noted that the basic plan lacked QuickBooks sync and GPS tracking. Others say Housecall Pro gets you up and running fast, especially for residential service businesses.
+Most people find Jobber simpler to learn. One small-business owner on Reddit said the Housecall Pro trial felt confusing because there was so much in it, and was annoyed that the basic plan didn't include QuickBooks sync or GPS. Others say Housecall Pro gets a residential shop up and running fast. Both can be true. It depends how much of it you plan to use.
 
-On review sites, Jobber has the higher score on [G2](https://www.g2.com/compare/housecall-pro-vs-jobber) at the time of writing (about 4.6 vs 4.3 out of 5). Review scores change, so check the live pages.
+On [G2](https://www.g2.com/compare/housecall-pro-vs-jobber), Jobber scored higher when we checked (about 4.6 vs 4.3 out of 5). Those scores move around, so look at the live page.
 
-Support works differently by plan. Housecall Pro Max includes a dedicated onboarding specialist and escalated phone support. Jobber Plus includes dedicated onboarding and Premium Support.
+For support, Housecall Pro Max comes with a dedicated onboarding specialist and escalated phone support. Jobber Plus includes dedicated onboarding and Premium Support. On the cheaper plans, expect standard support from both.
 
-Take Marcus, who owns a 6-tech HVAC company. He sells 300 maintenance agreements a year and runs two dispatchers. For him, Housecall Pro Max at $299/month pays off: recurring service plans, route optimization, and proposals for system replacements are all built in. On Jobber, eight people plus crew scheduling and marketing means Plus at the 10-user tier, which is $449/month. (This is an example scenario, not a customer story.)
+Housecall Pro earns its price in a bigger shop. Take an HVAC shop with six techs, two dispatchers and around 300 maintenance agreements. Housecall Pro Max at $299 a month covers everyone and includes service plans, route optimization and proposals for system replacements. Getting the same thing on Jobber means Plus at the 10-user tier, which is $449 a month.
 
 ## Which One Fits Your Trade?
 
 | Trade | Better fit | Why |
 |---|---|---|
-| House cleaning / maid service | **Jobber** | Cheap entry plan, recurring jobs, automated reminders |
-| Lawn care and landscaping | **Jobber** | Recurring visits, simple quoting, QuickBooks sync |
+| House cleaning / maid service | **Jobber** | Cheap to start, handles recurring jobs, reminders go out on their own |
+| Lawn care and landscaping | **Jobber** | Recurring visits, quick quotes, QuickBooks sync |
 | Handyman | **Jobber** | Low cost for solo work, good-better-best quotes on Grow |
 | Pressure and window washing | **Jobber** | Fast quotes, low overhead |
 | HVAC | **Housecall Pro** | Service agreements, proposals, dispatch |
 | Plumbing | **Housecall Pro** | Dispatch, flat-rate price book, financing |
 | Electrical | **Housecall Pro** | Multi-tech dispatch, proposals |
-| Pool service | **Either** | Both handle routes; compare on route needs |
+| Pool service | **Either** | Both do routes; compare on route needs |
 
-Running a cleaning business? See our full list of the [best cleaning business software](/best-cleaning-business-software/).
+Running a cleaning business? We compare more options in our guide to the [best cleaning business software](/best-cleaning-business-software/).
 
 ## Who Should Choose Jobber vs Housecall Pro
 
-### Choose Jobber if you:
+### Get Jobber if
 
-- Work alone or with 1–2 helpers and want to pay under $50/month
-- Need QuickBooks Online sync without jumping to a 5-user plan
-- Do recurring, simple services like cleaning, lawn care, or handyman work
-- Want automated invoice follow-ups to stop chasing payments
+- You work alone or with one or two helpers and want to stay under $50 a month
+- Your bookkeeper needs QuickBooks Online and you don't want a 5-user plan to get it
+- Your work is recurring and simple: cleaning, lawns, handyman jobs
+- You're tired of chasing people for payment
 
 [Try Jobber free for 14 days →]({{AFF_JOBBER}})
 
-### Choose Housecall Pro if you:
+### Get Housecall Pro if
 
-- Run HVAC, plumbing, or electrical with several techs in the field
-- Sell maintenance plans or memberships
-- Want built-in review management and residential marketing
-- Process a lot of card payments and want lower rates
+- You run HVAC, plumbing or electrical with several techs on the road
+- Maintenance plans or memberships are part of how you make money
+- You want review requests and residential marketing built in
+- You take a lot of card payments and the lower rate adds up
 
 [Try Housecall Pro free for 14 days →]({{AFF_HOUSECALLPRO}})
 
-Still not sure either one fits? Compare more options in our guide to the [best field service software for small business](/best-field-service-software-small-business/) or see these [Jobber alternatives](/jobber-alternatives/).
+Not sold on either? We cover more options in our guide to the [best field service software for small business](/best-field-service-software-small-business/), and there's a list of [Jobber alternatives](/jobber-alternatives/) too.
 
 ## How We Compared Jobber and Housecall Pro
 
-We pulled every price and plan feature from the official Jobber and Housecall Pro pricing pages on October 18, 2026, then calculated the real cost at 1, 5, and 8 users on annual billing. For ease of use and support, we read recent user reviews on G2, Capterra, and Reddit and only kept points that came up more than once. Prices change often, so we recheck this page every quarter and update the date at the top.
+Every price and plan feature on this page comes from the official Jobber and Housecall Pro pricing pages, checked on October 18, 2026. We worked out what you'd pay at 1, 5 and 8 users on annual billing. For ease of use and support, we went through recent reviews on G2, Capterra and Reddit and kept only the points that came up more than once. We haven't run a business on either tool ourselves, which is why we tell you to put your own jobs through both trials. Prices change often, so we recheck this page every quarter.
 
 ## FAQ
 
 ### Is Jobber or Housecall Pro better for a one-person business?
 
-Jobber is usually better for a one-person business. Its Core plan is $29/month on annual billing, compared with $59/month for Housecall Pro Basic, and its QuickBooks sync is available on a 1-user plan.
+Jobber, in most cases. Core costs $29 a month on annual billing against $59 for Housecall Pro Basic, and you can get QuickBooks sync on a one-user Jobber plan.
 
 ### Is Jobber cheaper than Housecall Pro?
 
-Yes, at the entry level and for solo users. At 5 users, both cost $149/month on annual billing. At 8 users, Jobber Connect ($229/mo for up to 10 users) is cheaper than Housecall Pro Max ($299/mo).
+Yes, for solo users and at the entry level. At 5 users they both cost $149 a month on annual billing. At 8 users, Jobber Connect ($229 a month, up to 10 users) costs less than Housecall Pro Max ($299).
 
 ### Does Housecall Pro have a free plan?
 
-No. Housecall Pro has a 14-day free trial with no credit card required. It sometimes shows introductory discounts for the first month or months, so read the terms.
+No. There's a 14-day free trial with no credit card. Housecall Pro sometimes runs discounts for the first month or first few months, so read the fine print on those.
 
 ### Do Jobber and Housecall Pro work with QuickBooks?
 
-Yes, both sync with QuickBooks Online, but not on their entry plans. Jobber includes it from Connect, and Housecall Pro includes it from Essentials.
+Both sync with QuickBooks Online, but not on their cheapest plans. Jobber includes it from Connect and Housecall Pro from Essentials.
 
 ### Can I switch from Housecall Pro to Jobber?
 
-Yes. Jobber can import client lists from a spreadsheet, so start by exporting your customer list from Housecall Pro. Ask Jobber's onboarding team what job history they can bring over, plan the switch for a slower week, and run both tools side by side for a few days.
+Yes. Jobber can import a client list from a spreadsheet, so start by exporting your customers from Housecall Pro. Ask Jobber's onboarding team what job history they can bring over, pick a slow week for the move, and run both side by side for a few days.
 
 ### Which is better for HVAC: Jobber or Housecall Pro?
 
-Housecall Pro is generally the better fit for HVAC because of its recurring service plans, sales proposals for system replacements, and multi-tech dispatch.
+Housecall Pro, usually. Recurring service plans, sales proposals for replacements and multi-tech dispatch are the things HVAC shops use every day.
 
 ### Is Jobber worth it?
 
-Is Jobber worth it for a small business? For most solo operators and crews under five people, yes. The Core plan pays for itself if it saves you one or two hours of paperwork a month, and automatic invoice follow-ups on Connect help you get paid faster. It's less worth it if you need advanced dispatch for many techs, where Housecall Pro or a larger platform fits better.
+For most solo operators and crews under five, yes. If Core saves you an hour or two of paperwork a month it has paid for itself, and the automatic invoice follow-ups on Connect get money in faster. It makes less sense if you need heavy dispatch for a lot of techs.
 
 ### Is Housecall Pro worth it?
 
-Is Housecall Pro worth it? It is for residential service shops with several techs, especially in HVAC and plumbing. Recurring service plans, review management, and lower card rates can add more revenue than the plan costs. For a one-person business that only needs quotes and invoices, the $59/month Basic plan is harder to justify next to Jobber Core at $29/month.
+For residential shops with several techs, especially HVAC and plumbing, it is. Service plans, review requests and lower card rates can bring in more than the plan costs. For a one-person business that only needs quotes and invoices, $59 a month is hard to justify when Jobber Core is $29.
 
 ### Housecall Pro vs Jobber: which has the better mobile app?
 
-Both have well-rated iOS and Android apps for techs in the field. Users often praise Housecall Pro's mobile app for real-time scheduling, while Jobber's app is known for being simple to learn. Test the app on your own phone during the free trial, because that's where you and your crew will spend most of your time.
+Both have well-rated iPhone and Android apps. Housecall Pro's gets praised for real-time scheduling, Jobber's for being easy to pick up. Install both during the trial and use them on a real job, because the app is where you and your crew will spend your day.
 
-## The Verdict
+## Our Pick
 
-Jobber and Housecall Pro are both solid. The right choice depends on your size and trade:
+Jobber vs Housecall Pro comes down to size and trade.
 
-1. **Solo or small crew doing recurring services:** Jobber. It's cheaper and simpler.
-2. **Multi-tech HVAC, plumbing, or electrical shop:** Housecall Pro. Service plans and dispatch earn their price.
-3. **5-person crew:** same price; pick by features (GPS and photo reports point to Housecall Pro, QuickBooks and follow-ups point to Jobber).
+If you're solo or small and your work repeats every week or month, Jobber is cheaper and easier. If you run a multi-tech HVAC, plumbing or electrical shop, Housecall Pro's service plans and dispatch are worth the extra money. At five people the price is the same, so pick on features: GPS and photo reports point to Housecall Pro, QuickBooks and payment follow-ups point to Jobber.
 
-The fastest way to settle Jobber vs Housecall Pro for your business is to run your next three real jobs through each trial. Quote, schedule, invoice, and get paid in both, then keep the one that felt easier.
+Don't decide from a feature list. Put your next three real jobs through both trials, quote to paid, and keep the one you didn't have to fight with.
 
-**[Start your free Jobber trial →]({{AFF_JOBBER}})** or **[Start your free Housecall Pro trial →]({{AFF_HOUSECALLPRO}})**
+[Start your free Jobber trial →]({{AFF_JOBBER}}) [Start your free Housecall Pro trial →]({{AFF_HOUSECALLPRO}})
